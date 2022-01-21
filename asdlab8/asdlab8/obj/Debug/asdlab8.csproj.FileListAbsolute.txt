@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\asdlab8\asdlab8\bin\Debug\asdlab8.exe.config
+C:\Users\Admin\source\repos\asdlab8\asdlab8\bin\Debug\asdlab8.exe
+C:\Users\Admin\source\repos\asdlab8\asdlab8\bin\Debug\asdlab8.pdb
+C:\Users\Admin\source\repos\asdlab8\asdlab8\obj\Debug\asdlab8.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\asdlab8\asdlab8\obj\Debug\asdlab8.exe
+C:\Users\Admin\source\repos\asdlab8\asdlab8\obj\Debug\asdlab8.pdb

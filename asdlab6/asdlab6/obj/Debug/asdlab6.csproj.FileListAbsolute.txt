@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\asdlab6\asdlab6\bin\Debug\asdlab6.exe.config
+C:\Users\Admin\source\repos\asdlab6\asdlab6\bin\Debug\asdlab6.exe
+C:\Users\Admin\source\repos\asdlab6\asdlab6\bin\Debug\asdlab6.pdb
+C:\Users\Admin\source\repos\asdlab6\asdlab6\obj\Debug\asdlab6.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\asdlab6\asdlab6\obj\Debug\asdlab6.exe
+C:\Users\Admin\source\repos\asdlab6\asdlab6\obj\Debug\asdlab6.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\asdlab7\asdlab7\bin\Debug\asdlab7.exe.config
+C:\Users\Admin\source\repos\asdlab7\asdlab7\bin\Debug\asdlab7.exe
+C:\Users\Admin\source\repos\asdlab7\asdlab7\bin\Debug\asdlab7.pdb
+C:\Users\Admin\source\repos\asdlab7\asdlab7\obj\Debug\asdlab7.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\asdlab7\asdlab7\obj\Debug\asdlab7.exe
+C:\Users\Admin\source\repos\asdlab7\asdlab7\obj\Debug\asdlab7.pdb
